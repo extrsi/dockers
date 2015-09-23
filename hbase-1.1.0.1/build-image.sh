@@ -1,1 +1,1 @@
-docker build --rm=true -t nerdammer/hbase:1.1.0.1 .
+docker build --rm=true -t extrsi/hbase:1.1.0.1 .
