@@ -1,5 +1,5 @@
-FROM nerdammer/hbase:1.1.0.1
-MAINTAINER Nicola Ferraro <nibbio84@gmail.com>
+FROM extrsi/hbase:1.1.0.1
+MAINTAINER Extrsi <extrsi@gmail.com>
 
 RUN mkdir /phoenix-setup
 WORKDIR /phoenix-setup
