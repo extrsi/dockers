@@ -1,1 +1,0 @@
-docker build --rm=true -t nerdammer/hbase:0.98.10.1 .
