@@ -1,5 +1,5 @@
-FROM extrsi/hbase
-MAINTAINER Extrsi <extrsi@gmail.com>
+FROM extrsi/hbase-for-kitematic
+MAINTAINER extrsi <extrsi@gmail.com>
 
 RUN mkdir /phoenix-setup
 WORKDIR /phoenix-setup
