@@ -1,4 +1,4 @@
-FROM extrsi/hbase-phoenix
+FROM extrsi/hbase-phoenix-for-kitematic
 MAINTAINER Extrsi <extrsi@gmail.com>
 
 WORKDIR /opt/phoenix/bin
