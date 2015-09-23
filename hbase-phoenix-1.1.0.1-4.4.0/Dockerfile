@@ -1,4 +1,4 @@
-FROM extrsi/hbase:1.1.0.1
+FROM extrsi/hbase
 MAINTAINER Extrsi <extrsi@gmail.com>
 
 RUN mkdir /phoenix-setup
